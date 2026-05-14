@@ -1,4 +1,4 @@
-# 🧹 Employee Data Cleaning & Transformation ETL Pipeline
+# 🧹 Employee Data Cleaning & Transformation ETL
 
 ## 📝 Overview
 
